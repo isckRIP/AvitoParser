@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AvitoParser.iml" filepath="$PROJECT_DIR$/.idea/AvitoParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GorodRabotParser/.idea/GorodRabotParser.iml" filepath="$PROJECT_DIR$/../GorodRabotParser/.idea/GorodRabotParser.iml" />
     </modules>
   </component>
 </project>
